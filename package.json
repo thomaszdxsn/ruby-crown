@@ -1,0 +1,22 @@
+{
+  "name": "ruby-crown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomaszdxsn/ruby-crown.git"
+  },
+  "author": "thomaszdxsn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thomaszdxsn/ruby-crown/issues"
+  },
+  "homepage": "https://github.com/thomaszdxsn/ruby-crown#readme",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
